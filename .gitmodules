@@ -1,6 +1,6 @@
 [submodule "redux-anecdotes"]
 	path = redux-anecdotes
-	url = ./redux-anecdotes
+	url = https://github.com/Mouarius/redux-anecdotes
 [submodule "unicafe-redux"]
 	path = unicafe-redux
-	url = ./unicafe-redux
+	url = https://github.com/Mouarius/unicafe-redux
